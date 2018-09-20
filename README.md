@@ -1,0 +1,2 @@
+# Component-Management-System-NITC
+A PHP based software developed by student team for the ECE Department of the college, inculcating elements of CSS, Javascript. A Dynamic software for management of stock, lab, dues of students in the labs.Enables students to request for components and also generates No-Dues certificates and bills. Agile Methodology followed includes Agile Modelling, Sprints, Acceptance ,Iterative and Incremental Development and User Stories.
